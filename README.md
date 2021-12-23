@@ -5,13 +5,13 @@ Another four ULauncher themes crafted for elementaryOS Odin and newer
 ![Preview Dark](https://github.com/heidefinnischen/ULauncher-elementary_Flat/blob/main/Resources/Odin_Flat_Dark_preview.png#gh-dark-mode-only)
 ![Preview Light](https://github.com/heidefinnischen/ULauncher-elementary_Flat/blob/main/Resources/Odin_Flat_Light_preview.png#gh-light-mode-only)
 
-Odin Flat Dark | Odin Flat Light
+Odin Flat Light | Odin Flat Dark
 :-:|:--:
-<img src="https://github.com/heidefinnischen/ULauncher-elementary_Flat/blob/main/Resources/Odin_Flat_Dark_preview.png" width="550" /> | <img src="https://github.com/heidefinnischen/ULauncher-elementary_Flat/blob/main/Resources/Odin_Flat_Light_preview.png" width="550" />
+<img src="https://github.com/heidefinnischen/ULauncher-elementary_Flat/blob/main/Resources/thumbs/Odin_Flat_Light_thumb.png" width="550" /> | <img src="https://github.com/heidefinnischen/ULauncher-elementary_Flat/blob/main/Resources/thumbs/Odin_Flat_dark_thumb.png" width="550" />
 
-Odin Superflat Dark | Odin Superflat Light
+Odin Superflat Light | Odin Superflat Dark
 :-:|:-:
-<img src="https://github.com/heidefinnischen/ULauncher-elementary_Flat/blob/main/Resources/Odin_Superflat_Dark_preview.png" width="550" /> | <img src="https://github.com/heidefinnischen/ULauncher-elementary_Flat/blob/main/Resources/Odin_Superflat_Light_preview.png" width="550" />
+<img src="https://github.com/heidefinnischen/ULauncher-elementary_Flat/blob/main/Resources/thumbs/Odin_Superflat_Light_thumb.png" width="550" /> | <img src="https://github.com/heidefinnischen/ULauncher-elementary_Flat/blob/main/Resources/thumbs/Odin_Superflat_Dark_thumb.png" width="550" />
 
 These are themes for ULauncher. An application launcher for Linux. 
 
@@ -52,12 +52,10 @@ Copy desired theme(s) (for example "Odin_Superflat_Dark") to  `~/.config/ulaunch
 # More Themes
 
 I have also made another four themes for ULauncher. They are also designed for elementary OS but they are a bit more pronounced. <p>
-While both get add seperators between list entries, the standard theme also introduces an input box. 
+While both add seperators between list entries, the standard theme also introduces an input box that matches Slingshot. 
 
-<a href="https://github.com/heidefinnischen/ULauncher-elementary_Light_Theme">
-<img src="https://github.com/heidefinnischen/ULauncher-elementary_Light_Theme/blob/main/Resources/preview.png" width="300"/> 
-</a>
-
-<br>
+  Odin Light | Odin Dark | Odin Modern Light | Odin Modern Dark
+:-:|:-:|:-:|:-:
+<img src="https://github.com/heidefinnischen/ULauncher-elementary/blob/main/Resources/thumbs/Odin_Light_thumb.png" width="250" /> | <img src="https://github.com/heidefinnischen/ULauncher-elementary/blob/main/Resources/thumbs/Odin_Dark_thumb.png" width="250" /> | <img src="https://github.com/heidefinnischen/ULauncher-elementary/blob/main/Resources/thumbs/Odin_Modern_Light_thumb.png" width="250" /> | <img src="https://github.com/heidefinnischen/ULauncher-elementary/blob/main/Resources/thumbs/Odin_Modern_Dark_thumb.png" width="250" />
 
 <a href="https://github.com/heidefinnischen/ULauncher-elementary_Light_Theme"> Flat elementary OS Themes for ULauncher</a>
