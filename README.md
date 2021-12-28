@@ -58,4 +58,4 @@ While both add seperators between list entries, the standard theme also introduc
 :-:|:-:|:-:|:-:
 <img src="https://github.com/heidefinnischen/ULauncher-elementary/blob/main/Resources/thumbs/Odin_Light_thumb.png" width="250" /> | <img src="https://github.com/heidefinnischen/ULauncher-elementary/blob/main/Resources/thumbs/Odin_Dark_thumb.png" width="250" /> | <img src="https://github.com/heidefinnischen/ULauncher-elementary/blob/main/Resources/thumbs/Odin_Modern_Light_thumb.png" width="250" /> | <img src="https://github.com/heidefinnischen/ULauncher-elementary/blob/main/Resources/thumbs/Odin_Modern_Dark_thumb.png" width="250" />
 
-<a href="https://github.com/heidefinnischen/ULauncher-elementary_Light_Theme"> First set of elementary OS Themes for ULauncher</a>
+<a href="https://github.com/heidefinnischen/ULauncher-elementary"> First set of elementary OS Themes for ULauncher</a>
